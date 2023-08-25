@@ -1,4 +1,6 @@
 # Notepad-clone
+### 🛠️ To run the project from the command line, go to the dist folder and type the following:
+  - java -jar "Notepad.jar" 
 <html>
   <body>
     <div align="center">
@@ -6,7 +8,7 @@
     </div>
     <!--p></p-->
     <h2>
-    𝑻𝒉𝒊𝒔 𝒊𝒔 𝒂𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝒔𝒊𝒎𝒑𝒍𝒆 𝒕𝒆𝒙𝒕 𝒆𝒅𝒊𝒕❀𝒓 𝒎𝒂𝒅𝒆 𝒊𝒏 𝒋𝒂𝒗𝒂</h2>
+    𝑻𝒉𝒊𝒔 𝒊𝒔 𝒂𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝒔𝒊𝒎𝒑𝒍𝒆 𝒕𝒆𝒙𝒕 𝒆𝒅𝒊𝒕0𝒓 𝒎𝒂𝒅𝒆 𝒊𝒏 𝒋𝒂𝒗𝒂</h2>
     <p>
     <h2><p> &#128204; About </h2></p>
     <ol>
@@ -41,9 +43,9 @@
     </ol>
     <h2><p> &#128247; Screenshots </h2></p>
     <div class="row">
-      <img src="https://github.com/CODING-Enthusiast9857/Notepad/blob/main/Notepad.png" alt="Notepad" height=250 width=480>
+      <img src="https://github.com/vivekPatil45/Notepad-clone/blob/main/Notepad/src/notepad/icon/Screenshot%202023-08-26%20003106.png" alt="Notepad" height=250 width=480>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://github.com/CODING-Enthusiast9857/Notepad/blob/main/Notepad1.png" alt="Notepad" height=250 width=480>
+      <img src="https://github.com/vivekPatil45/Notepad-clone/blob/main/Notepad/src/notepad/icon/Screenshot%202023-08-26%20003153.png" alt="Notepad" height=250 width=480>
     </div>
   </body>
 </html>
